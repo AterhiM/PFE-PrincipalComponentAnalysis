@@ -32,4 +32,4 @@ On the last chapter of the work, you will be facing a numerical application with
 ## **Last words..**
 
 I hope you will enjoy this work and I definetly hope I've achieved the goal of giving the necessary details
-about a fundamental and an important dimensionality reduction technique such as the Principal Component Analysis.
+about a fundamental and an important dimensionality reduction such as the Principal Component Analysis technique.
